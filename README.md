@@ -240,13 +240,13 @@ gantt
     Advanced AI Trainer           :2025-08, 2025-11
 ```
 
-### 🤖 **Advanced AI Trainer** | *Aug 2024 - Present*
+### 🤖 **Advanced AI Trainer** | *Aug 2025 - Present*
 **Alignerr • Invisibletech • Mindrift • DataAnnotation.tech**
 - Training & evaluating advanced AI models for production systems
 - Specialized in coding tasks, reasoning, and technical problem-solving
 - Working with cutting-edge LLMs and GenAI technologies
 
-### 🚇 **Systems Control Technical Officer** | *Dec 2023 - Aug 2024*
+### 🚇 **Systems Control Technical Officer** | *Dec 2023 - Aug 2025*
 **Uttar Pradesh Metro Rail Corporation, Kanpur**
 - Managed metro rail operations and control systems
 - Technical solutions for urban transit infrastructure

@@ -236,8 +236,8 @@ gantt
     MTech Aerospace (UAV)         :2021-08, 2023-05
     section Professional
     VTOL Aviation (Intern)        :2022-08, 2022-10
-    Metro Rail (SCTO)             :2023-12, 2024-08
-    Advanced AI Trainer           :2024-08, 2025-11
+    Metro Rail (SCTO)             :2023-12, 2025-08
+    Advanced AI Trainer           :2025-08, 2025-11
 ```
 
 ### 🤖 **Advanced AI Trainer** | *Aug 2024 - Present*
